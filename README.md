@@ -1,2 +1,2 @@
 # world-of-languages
-List of languages in the world (Programming,Scripting,Markup etc)
+List of languages in the world (Programming,C,Scripting,Markup etc)
